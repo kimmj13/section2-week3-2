@@ -8,6 +8,6 @@ public class RecommendationsController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "To-do Application!";
+        return "Hello~ To-do Application!!!!!!";
     }
 }
