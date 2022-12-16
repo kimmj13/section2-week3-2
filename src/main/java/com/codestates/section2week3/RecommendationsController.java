@@ -10,5 +10,4 @@ public class RecommendationsController {
     public String helloWorld() {
         return "Hello, To-do Application!";
     }
-
 }
