@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class RecommendationsController {
 
     @GetMapping("/")
+
     public String helloTodo() {
         return "Hello~ To-do Application!!!!!!";
     }
